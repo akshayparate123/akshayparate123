@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 **Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it 👷 (Zhuowei Zhang)**
 
 
-<a href="https://github.com/akshayparate123/GitHub-Language-Stats">
-<img src="https://github.com/akshayparate123/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/akshayparate123/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=akshayparate123)
 
 ## 📫 Let's Connect!
