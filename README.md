@@ -18,8 +18,5 @@ Here are some ideas to get you started:
 
 **Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it 👷 (Zhuowei Zhang)**
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=akshayparate123)
-
 ## 📫 Let's Connect!
 Feel free to reach out for collaboration opportunities, technical discussion, or just to say hi! 
